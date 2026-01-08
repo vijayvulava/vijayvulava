@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vijayvulava
-- 👀 I’m a professor of environmental geochemistry 
-- 🌱 I’m currently learning to put my course resources online
+- 👋 Hi, I’m [@vijayvulava](https://charleston.edu/geology/faculty/vulava-vijay.php)
+- 👀 I’m a professor of environmental geochemistry at the [College of Charleston](https://charleston.edu/)
+- 🌱 I’m sharing my course-related resources online at Github
 - 📫 How to reach me by email at vulavav@cofc.edu
 
 <!---
